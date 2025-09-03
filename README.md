@@ -4,6 +4,7 @@ This project was completed as part of the Compiler Theory course at the Faculty 
 
 Milestone 1 - Scanner (Lexical Analysis):
 A lexical analyzer that reads source code and produces a stream of tokens using regular expressions and a deterministic finite automaton (DFA).
+
 Note: The DFA was implemented without a trap (dead) state
 
 Milestone 2 - Parser (Syntax Analysis):
